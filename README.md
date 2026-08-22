@@ -4,6 +4,7 @@ My second Git repository
 
 ## What I have done
 
+- Cloned the repository into a folder in my laptop
 - Added .gitignore file
 - Created a file named about.md
 - Created a proper README file
